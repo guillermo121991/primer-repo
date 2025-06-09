@@ -1,4 +1,4 @@
-# primer-repo
+# primer-repo de git
 Primer repo creado en Git Hub
 
 ## descripcion
